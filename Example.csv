@@ -1,0 +1,7 @@
+"Use collumn a for the label for states, Row 1 for the input tokens, Collumn B for whether accepting (Not implemented yet) and the cells for transitions.",Accepting,a,b,
+s0,,s0,,
+s1,t,,,s1
+s2,t,s1,,
+s3,,s4+s2,,
+s4,,,s0,
+s5,,,,s4
